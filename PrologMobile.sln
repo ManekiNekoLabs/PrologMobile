@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrologMobile", "PrologMobile.csproj", "{02E7C48C-D979-468D-8696-5C035A894A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E7C48C-D979-468D-8696-5C035A894A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E7C48C-D979-468D-8696-5C035A894A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E7C48C-D979-468D-8696-5C035A894A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E7C48C-D979-468D-8696-5C035A894A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C73790-4169-40C0-A791-D4693C65D5DB}
+	EndGlobalSection
+EndGlobal
